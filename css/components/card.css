@@ -1,5 +1,14 @@
 .card {
+  display: flex;
+  flex-direction: column;
+  width: 100vh;
+  margin: 0 auto; /* This automatically sets left/right margins */
+  border-radius: 13px;
+  box-shadow: 1px 1px 3px grey;
+  position: relative;
   padding: 50px;
   text-align: center;
 
 }
+
+

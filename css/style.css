@@ -71,11 +71,6 @@ td {
   height: 100%;
 }
 
-.staff{
-  border-radius: 50px;
-  border: 2px solid black;
-}
-
 .shadow {
   box-shadow: 5px 5px 3px grey;
 }
