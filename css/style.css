@@ -1,0 +1,81 @@
+@import url("components/avatar.css");
+@import url(components/logo.css);
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+
+
+/* Font & colors */
+
+body{
+  background-color: rgb(240,240,240);
+  color: grey;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 140%;
+  margin: 0;
+}
+h1{
+  font-family: 'Work Sans', sans-serif;
+  color: 000;
+  font-weight: lighter;
+  font-size: 3.5em;
+}
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  color: 333;
+  font-weight: lighter;
+  font-size: 2.2em;
+}
+h3 {
+  font-family: 'Work Sans', sans-serif;
+  color: 333;
+  font-weight: lighter;
+  font-size: 2em;
+}
+
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+p {
+  color: 10 10 10;
+}
+
+td {
+  background-color: rgb(240,240,240);
+}
+
+/* Custom Design */
+
+
+#poster {
+  background-color: white;
+  background-size: cover;
+  padding: 10px;
+  margin: relative;
+  height: 100%;
+}
+
+#text {
+  background-color: white;
+  background-size: cover;
+  padding: 10px;
+  margin: relative;
+  height: 100%;
+}
+
+.staff{
+  border-radius: 50px;
+  border: 2px solid black;
+}
+
+.shadow {
+  box-shadow: 5px 5px 3px grey;
+}
