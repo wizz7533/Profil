@@ -4,6 +4,7 @@
   flex-direction: column;
   width: 1200px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
+  padding: 10px;
   background-color: rgb(255,255,255);
   border-radius: 13px;
   box-shadow: 1px 1px 3px grey;
